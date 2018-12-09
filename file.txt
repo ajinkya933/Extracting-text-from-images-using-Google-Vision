@@ -1,0 +1,1191 @@
+
+"CARGO MANIFEST
+ISSUED BY:
+POWER AIRFREIGHT LTD
+Freight Building East
+CH-8058 Zurich Airport
+PAGE BY:
+DATE:
+CONTACT:
+PHONE:
+FAX:
+06.07.18
+CONSIGNEE:
+JEENA & CO
+3RD FLOOR, SEWA CORPORATE PARK,
+M. G. MALL ROAD, NEAR FFCO CHOWK
+IN-122002 GURGAON ¿ 1
+NDIA
+CARR ER :
+AIRPORT OF DESTINATION:
+QATAR
+DEL
+MASTER-AIRWAYBILL NO: 157-46637194
+FLIGHT NO / DATE:
+QR 094/07.07.18
+QR 578/08.07.18
+HAWB-NO:
+DST: NO OF NATURE OF GOODS:
+GROSS WEIGHT
+MARKS AND NUMBERS:
+PCS:
+(KILO):
+2.10
+POW- 40172882
+PAF. 130849.1
+DCM TEXTILES
+LTD. VIA NEW
+DELHI
+DEL
+1 USTER POLYPROPYLENE
+OPTIONS FOR USTER
+QUANTUM-3 CLEARERS
+INSTALLED ON WINDING
+MACHINES
+CH/RA/00153-01, Code: SPX/KC
+Shipper: Uster Technologies AG
+Consignee: DCM Textiles
+(A Unit of DCM Limited)
+Near Mela Ground
+Post Box No. 59
+IN-125001 Hissar, Haryana, India
+Sonnenbergstrasse 10
+CH-8610 Uster
+TOTAL:
+1
+2,10
+"
+
+"CARGO"
+
+"MANIFEST"
+
+"ISSUED"
+
+"BY:"
+
+"POWER"
+
+"AIRFREIGHT"
+
+"LTD"
+
+"Freight"
+
+"Building"
+
+"East"
+
+"CH-8058"
+
+"Zurich"
+
+"Airport"
+
+"PAGE"
+
+"BY:"
+
+"DATE:"
+
+"CONTACT:"
+
+"PHONE:"
+
+"FAX:"
+
+"06.07.18"
+
+"CONSIGNEE:"
+
+"JEENA"
+
+"&"
+
+"CO"
+
+"3RD"
+
+"FLOOR,"
+
+"SEWA"
+
+"CORPORATE"
+
+"PARK,"
+
+"M."
+
+"G."
+
+"MALL"
+
+"ROAD"
+
+","
+
+"NEAR"
+
+"FFCO"
+
+"CHOWK"
+
+"IN"
+
+"-"
+
+"122002"
+
+"GURGAON"
+
+"¿"
+
+"1"
+
+"NDIA"
+
+"CARR"
+
+"ER"
+
+":"
+
+"AIRPORT"
+
+"OF"
+
+"DESTINATION:"
+
+"QATAR"
+
+"DEL"
+
+"MASTER-AIRWAYBILL"
+
+"NO:"
+
+"157-46637194"
+
+"FLIGHT"
+
+"NO"
+
+"/"
+
+"DATE:"
+
+"QR"
+
+"094/07.07.18"
+
+"QR"
+
+"578/08.07.18"
+
+"HAWB-NO:"
+
+"DST:"
+
+"NO"
+
+"OF"
+
+"NATURE"
+
+"OF"
+
+"GOODS:"
+
+"GROSS"
+
+"WEIGHT"
+
+"MARKS"
+
+"AND"
+
+"NUMBERS:"
+
+"PCS:"
+
+"(KILO):"
+
+"2.10"
+
+"POW-"
+
+"40172882"
+
+"PAF."
+
+"130849.1"
+
+"DCM"
+
+"TEXTILES"
+
+"LTD."
+
+"VIA"
+
+"NEW"
+
+"DELHI"
+
+"DEL"
+
+"1"
+
+"USTER"
+
+"POLYPROPYLENE"
+
+"OPTIONS"
+
+"FOR"
+
+"USTER"
+
+"QUANTUM-3"
+
+"CLEARERS"
+
+"INSTALLED"
+
+"ON"
+
+"WINDING"
+
+"MACHINES"
+
+"CH/RA/00153-01,"
+
+"Code:"
+
+"SPX/KC"
+
+"Shipper:"
+
+"Uster"
+
+"Technologies"
+
+"AG"
+
+"Consignee:"
+
+"DCM"
+
+"Textiles"
+
+"(A"
+
+"Unit"
+
+"of"
+
+"DCM"
+
+"Limited)"
+
+"Near"
+
+"Mela"
+
+"Ground"
+
+"Post"
+
+"Box"
+
+"No."
+
+"59"
+
+"IN-125001"
+
+"Hissar,"
+
+"Haryana,"
+
+"India"
+
+"Sonnenbergstrasse"
+
+"10"
+
+"CH-8610"
+
+"Uster"
+
+"TOTAL:"
+
+"1"
+
+"2,10"
+
+"CARGO MANIFEST
+ISSUED BY:
+POWER AIRFREIGHT LTD
+PAGE BY:
+DATE:
+CONTACT:
+PHONE:
+FAX:
+1
+18.01.18
+Freight Building East
+CH-8058 Zurich - Airport
+CONSIGNEE:
+JEENA & CO.
+Jeena House
+520 Mkn Road
+IN-600016 Chennai - India
+CARRIER:
+AIRPORT OF DESTINATION:
+Emirates
+MAA
+MASTER-AIRWAYBILL NO 176-54005663
+FLIGHT NO / DATE:
+EK088/19.01.18
+EK544/21.01.18
+HAWB-NO:
+DST: NO OF NATURE OF GOODS:
+GROSS WEIGHT
+MARKS AND NUMBERS:
+PCS:
+(KILO):
+POW-40161881 MAA
+PAF.128901.1
+CH/RA/00153-01, Code: SPX/KC
+1 MEDICAL INSTRUMENTS
+38.00
+ADDRESSED AND
+LABELLED
+Shipper: Nouvag AG
+Consignee: The South India Surgical Co. Ltd
+St. Gallerstrasse 23-25
+CH-9403 Goldachh
+No. 117/ 65 Wallajah Road
+Tel: +91 44 421 95 500
+IN 600 002 Chennai India
+TOTAL:
+1
+38,00
+"
+
+"CARGO"
+
+"MANIFEST"
+
+"ISSUED"
+
+"BY:"
+
+"POWER"
+
+"AIRFREIGHT"
+
+"LTD"
+
+"PAGE"
+
+"BY:"
+
+"DATE:"
+
+"CONTACT:"
+
+"PHONE:"
+
+"FAX:"
+
+"1"
+
+"18.01.18"
+
+"Freight"
+
+"Building"
+
+"East"
+
+"CH-8058"
+
+"Zurich"
+
+"-"
+
+"Airport"
+
+"CONSIGNEE:"
+
+"JEENA"
+
+"&"
+
+"CO."
+
+"Jeena"
+
+"House"
+
+"520"
+
+"Mkn"
+
+"Road"
+
+"IN-600016"
+
+"Chennai"
+
+"-"
+
+"India"
+
+"CARRIER:"
+
+"AIRPORT"
+
+"OF"
+
+"DESTINATION:"
+
+"Emirates"
+
+"MAA"
+
+"MASTER-AIRWAYBILL"
+
+"NO"
+
+"176-54005663"
+
+"FLIGHT"
+
+"NO"
+
+"/"
+
+"DATE:"
+
+"EK088/19.01.18"
+
+"EK544/21.01.18"
+
+"HAWB-NO:"
+
+"DST:"
+
+"NO"
+
+"OF"
+
+"NATURE"
+
+"OF"
+
+"GOODS:"
+
+"GROSS"
+
+"WEIGHT"
+
+"MARKS"
+
+"AND"
+
+"NUMBERS:"
+
+"PCS:"
+
+"(KILO):"
+
+"POW-40161881"
+
+"MAA"
+
+"PAF.128901.1"
+
+"CH/RA/00153-01,"
+
+"Code:"
+
+"SPX/KC"
+
+"1"
+
+"MEDICAL"
+
+"INSTRUMENTS"
+
+"38.00"
+
+"ADDRESSED"
+
+"AND"
+
+"LABELLED"
+
+"Shipper:"
+
+"Nouvag"
+
+"AG"
+
+"Consignee:"
+
+"The"
+
+"South"
+
+"India"
+
+"Surgical"
+
+"Co."
+
+"Ltd"
+
+"St."
+
+"Gallerstrasse"
+
+"23-25"
+
+"CH-9403"
+
+"Goldachh"
+
+"No."
+
+"117/"
+
+"65"
+
+"Wallajah"
+
+"Road"
+
+"Tel:"
+
+"+91"
+
+"44"
+
+"421"
+
+"95"
+
+"500"
+
+"IN"
+
+"600"
+
+"002"
+
+"Chennai"
+
+"India"
+
+"TOTAL:"
+
+"1"
+
+"38,00"
+
+"CARGO MANIFEST
+ISSUED BY:
+POWER AIRFREIGHT LTD
+Freight Building East
+CH-8058 Zurich - Airport
+PAGE BY:
+DATE:
+CONTACT:
+PHONE:
+FAX:
+1
+10.08.18
+CONSIGNEE:
+JEENA & CC
+971/471, GROUND FLOOR
+AIRPORT EXIT ROAD
+IN-560017 BANGALORE - INDIA
+CARRIER:
+AIRPORT OF DESTINATION:
+QATAR
+BLR
+MASTER-AIRWAYBILL NO 157-47832610
+FLIGHT NO / DATE:
+QR 094/11.08.18
+QR 572/12.08.18
+HAWB-NO:
+DST: NO OF NATURE OF GOODS:
+GROSS WEIGHT
+MARKS AND NUMBERS:
+PCS:
+(KILO):
+ADDRESS
+112468
+26.00
+POW-40174816 BLR
+PAF. 131187.1
+1 ACCESSORIES FOR
+USTER QUANTUM YARN
+CLEARING INSTALLATION
+ON WINDING MACHINES
+(FREE OF CHARGE)
+CH/RA/00153-01, Code: SPX/KC
+Shipper: Uster Technologies AG
+Consignee: Uster Technologies (India) Pvt.Ltd
+Sankar Krupa, II Floor
+43/1, 14th Cross, Margosa Road,
+Malleswaram
+IN-560055 Bangalore
+Sonnenbergstrasse 10
+CH-8610 Uster
+TOTAL:
+1
+26,00
+"
+
+"CARGO"
+
+"MANIFEST"
+
+"ISSUED"
+
+"BY:"
+
+"POWER"
+
+"AIRFREIGHT"
+
+"LTD"
+
+"Freight"
+
+"Building"
+
+"East"
+
+"CH-8058"
+
+"Zurich"
+
+"-"
+
+"Airport"
+
+"PAGE"
+
+"BY:"
+
+"DATE:"
+
+"CONTACT:"
+
+"PHONE:"
+
+"FAX:"
+
+"1"
+
+"10.08.18"
+
+"CONSIGNEE:"
+
+"JEENA"
+
+"&"
+
+"CC"
+
+"971/471,"
+
+"GROUND"
+
+"FLOOR"
+
+"AIRPORT"
+
+"EXIT"
+
+"ROAD"
+
+"IN"
+
+"-"
+
+"560017"
+
+"BANGALORE"
+
+"-"
+
+"INDIA"
+
+"CARRIER:"
+
+"AIRPORT"
+
+"OF"
+
+"DESTINATION:"
+
+"QATAR"
+
+"BLR"
+
+"MASTER-AIRWAYBILL"
+
+"NO"
+
+"157-47832610"
+
+"FLIGHT"
+
+"NO"
+
+"/"
+
+"DATE:"
+
+"QR"
+
+"094/11.08.18"
+
+"QR"
+
+"572/12.08.18"
+
+"HAWB-NO:"
+
+"DST:"
+
+"NO"
+
+"OF"
+
+"NATURE"
+
+"OF"
+
+"GOODS:"
+
+"GROSS"
+
+"WEIGHT"
+
+"MARKS"
+
+"AND"
+
+"NUMBERS:"
+
+"PCS:"
+
+"(KILO):"
+
+"ADDRESS"
+
+"112468"
+
+"26.00"
+
+"POW-40174816"
+
+"BLR"
+
+"PAF."
+
+"131187.1"
+
+"1"
+
+"ACCESSORIES"
+
+"FOR"
+
+"USTER"
+
+"QUANTUM"
+
+"YARN"
+
+"CLEARING"
+
+"INSTALLATION"
+
+"ON"
+
+"WINDING"
+
+"MACHINES"
+
+"(FREE"
+
+"OF"
+
+"CHARGE)"
+
+"CH/RA/00153-01,"
+
+"Code:"
+
+"SPX/KC"
+
+"Shipper:"
+
+"Uster"
+
+"Technologies"
+
+"AG"
+
+"Consignee:"
+
+"Uster"
+
+"Technologies"
+
+"(India)"
+
+"Pvt.Ltd"
+
+"Sankar"
+
+"Krupa,"
+
+"II"
+
+"Floor"
+
+"43/1,"
+
+"14th"
+
+"Cross,"
+
+"Margosa"
+
+"Road,"
+
+"Malleswaram"
+
+"IN-560055"
+
+"Bangalore"
+
+"Sonnenbergstrasse"
+
+"10"
+
+"CH-8610"
+
+"Uster"
+
+"TOTAL:"
+
+"1"
+
+"26,00"
+
+"CARGO MANIFEST
+ISSUED BY:
+POWER AIRFREIGHT LTD
+Freight Building East
+CH-8058 Zurich - Airport
+PAGE BY:
+DATE:
+CONTACT:
+PHONE:
+FAX:
+1
+10.08.18
+CONSIGNEE:
+JEENA & CC
+971/471, GROUND FLOOR
+AIRPORT EXIT ROAD
+IN-560017 BANGALORE - INDIA
+CARRIER:
+AIRPORT OF DESTINATION:
+QATAR
+BLR
+MASTER-AIRWAYBILL NO 157-47832610
+FLIGHT NO / DATE:
+QR 094/11.08.18
+QR 572/12.08.18
+HAWB-NO:
+DST: NO OF NATURE OF GOODS:
+GROSS WEIGHT
+MARKS AND NUMBERS:
+PCS:
+(KILO):
+ADDRESS
+112468
+26.00
+POW-40174816 BLR
+PAF. 131187.1
+1 ACCESSORIES FOR
+USTER QUANTUM YARN
+CLEARING INSTALLATION
+ON WINDING MACHINES
+(FREE OF CHARGE)
+CH/RA/00153-01, Code: SPX/KC
+Shipper: Uster Technologies AG
+Consignee: Uster Technologies (India) Pvt.Ltd
+Sankar Krupa, II Floor
+43/1, 14th Cross, Margosa Road,
+Malleswaram
+IN-560055 Bangalore
+Sonnenbergstrasse 10
+CH-8610 Uster
+TOTAL:
+1
+26,00
+"
+
+"CARGO"
+
+"MANIFEST"
+
+"ISSUED"
+
+"BY:"
+
+"POWER"
+
+"AIRFREIGHT"
+
+"LTD"
+
+"Freight"
+
+"Building"
+
+"East"
+
+"CH-8058"
+
+"Zurich"
+
+"-"
+
+"Airport"
+
+"PAGE"
+
+"BY:"
+
+"DATE:"
+
+"CONTACT:"
+
+"PHONE:"
+
+"FAX:"
+
+"1"
+
+"10.08.18"
+
+"CONSIGNEE:"
+
+"JEENA"
+
+"&"
+
+"CC"
+
+"971/471,"
+
+"GROUND"
+
+"FLOOR"
+
+"AIRPORT"
+
+"EXIT"
+
+"ROAD"
+
+"IN"
+
+"-"
+
+"560017"
+
+"BANGALORE"
+
+"-"
+
+"INDIA"
+
+"CARRIER:"
+
+"AIRPORT"
+
+"OF"
+
+"DESTINATION:"
+
+"QATAR"
+
+"BLR"
+
+"MASTER-AIRWAYBILL"
+
+"NO"
+
+"157-47832610"
+
+"FLIGHT"
+
+"NO"
+
+"/"
+
+"DATE:"
+
+"QR"
+
+"094/11.08.18"
+
+"QR"
+
+"572/12.08.18"
+
+"HAWB-NO:"
+
+"DST:"
+
+"NO"
+
+"OF"
+
+"NATURE"
+
+"OF"
+
+"GOODS:"
+
+"GROSS"
+
+"WEIGHT"
+
+"MARKS"
+
+"AND"
+
+"NUMBERS:"
+
+"PCS:"
+
+"(KILO):"
+
+"ADDRESS"
+
+"112468"
+
+"26.00"
+
+"POW-40174816"
+
+"BLR"
+
+"PAF."
+
+"131187.1"
+
+"1"
+
+"ACCESSORIES"
+
+"FOR"
+
+"USTER"
+
+"QUANTUM"
+
+"YARN"
+
+"CLEARING"
+
+"INSTALLATION"
+
+"ON"
+
+"WINDING"
+
+"MACHINES"
+
+"(FREE"
+
+"OF"
+
+"CHARGE)"
+
+"CH/RA/00153-01,"
+
+"Code:"
+
+"SPX/KC"
+
+"Shipper:"
+
+"Uster"
+
+"Technologies"
+
+"AG"
+
+"Consignee:"
+
+"Uster"
+
+"Technologies"
+
+"(India)"
+
+"Pvt.Ltd"
+
+"Sankar"
+
+"Krupa,"
+
+"II"
+
+"Floor"
+
+"43/1,"
+
+"14th"
+
+"Cross,"
+
+"Margosa"
+
+"Road,"
+
+"Malleswaram"
+
+"IN-560055"
+
+"Bangalore"
+
+"Sonnenbergstrasse"
+
+"10"
+
+"CH-8610"
+
+"Uster"
+
+"TOTAL:"
+
+"1"
+
+"26,00"
