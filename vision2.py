@@ -53,4 +53,4 @@ try:                              # Try to:
 
 except FileNotFoundError:                   # If log file not found.
 
-    print("Log file not found.")                # print an error message.
+    print("file not found.")                # print an error message.
