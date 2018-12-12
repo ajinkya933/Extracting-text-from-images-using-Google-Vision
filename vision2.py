@@ -2,6 +2,10 @@ import io
 import os
 import re
 
+#*****************************************************
+#               Google Vision API
+#*****************************************************
+
 # Imports the Google Cloud client library
 from google.cloud import vision
 from google.cloud.vision import types
@@ -62,7 +66,7 @@ for i in range(1, 10):
                     pattern_occur.append((linenum, line.rstrip('\n'))) # strip linebreaks, store line and line number in list as tuple.
             for linenum, line in pattern_occur:              # Iterate over the list of tuples, and
                 a=line
-            print('MAWB : '+a)   # prints MAWB number of every  file
+            print('MAWB : '+a+'\n')   # prints MAWB number of every  file
 
     except FileNotFoundError:                   # If log file not found.
 
@@ -116,3 +120,21 @@ for i in range(1, 10):
                 index2 += len(substr2)    # Before repeating search, increment index by length of substr." " "
                 b=li2
                 print(b)
+
+
+# *****************************************************
+#               Match Port of Destination
+# *****************************************************
+
+
+        with open('file_new'+str(i)+'.txt', 'rt') as in_file:  # Open file fire4.txt for reading of text data.
+            searchstrings = ('DEL', 'MAA', 'BLR', 'BOM', 'HYD', 'CCU')
+            for line in in_file:
+                if any(word in line for word in searchstrings):
+                    #print(line)
+                    c = line
+
+
+        print(' \n Port of Destination '+ c +'\n\n\n')
+
+
