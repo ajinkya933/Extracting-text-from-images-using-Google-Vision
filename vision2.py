@@ -46,6 +46,11 @@ for j in range(1,10):
 #               Regex
 #*****************************************************
 
+#*****************************************************
+#               Match MAWB
+#*****************************************************
+
+
 for i in range(1, 10):
     pattern_occur = []                         # The list where we will store results.
     pattern = re.compile(r"(\+\d{3})?[\s.-]?\d{3}[\s.-]?\d{4}[\s.-]?\d{4}")  # Compile a case-insensitive regex pattern.
@@ -63,35 +68,52 @@ for i in range(1, 10):
 
         print("Log file not found.")                # print an error message.
 
+# *****************************************************
+#               Match Consignee
+# *****************************************************
 
 
+    linesCo = []  # Declare an empty list named "lines"
+    with open('file_new' + str(i) + '.txt', 'rt') as in_file:  # Open file fire4.txt for reading of text data.
 
-
-    linesCo = [] #Declare an empty list named "lines"
-    with open ('file_new'+str(i)+'.txt', 'rt') as in_file:  #Open file fire4.txt for reading of text data.
-
-        for line in in_file: #For each line of text store in a string variable named "line", and
+        for line in in_file:  # For each line of text store in a string variable named "line", and
             index = 0  # index represents where in the string we begin looking.
 
-            linesCo.append(line.rstrip('\n'))  #add that line to our list of lines.
-            str1 = linesCo[0]
-            substr = "CONSIGNE"         # Substring to search for, in this case a single character
-            #print(str)
+            linesCo.append(line.rstrip('\n'))  # add that line to our list of lines.
+            str2 = linesCo[0]
+            substr = "Consigne"  # Substring to search for, in this case a single character
+            substr2 = "CONSIGNE"
+
+        # print(str)
 
         for linenum, line in enumerate(linesCo):  # For every line in lines, enumerated by linenum,
-            index = 0                   # Set the search index to the first character,
-            str1 = linesCo[linenum]	    # and store the line in a string variable, str.
-            #print(line)
+            index = 0
+            index2 = 0  # Set the search index to the first character,
+            str2 = linesCo[linenum]  # and store the line in a string variable, str.
+            # print(line)
 
-            while index < len(str1):     # While search index is less than the length of the string:
-                index = str1.find(substr, index)# If substring is located, set search index to that location.
+            while index < len(str2):  # While search index is less than the length of the string:
+                index = str2.find(substr, index)  # If substring is located, set search index to that location.
+                if index == -1:  # If nothing is found,
+                    # print('index = -1')
+                    break  # break out of the while loop. Otherwise
 
-                if index == -1:         # If nothing is found,
-                    break               # break out of the while loop. Otherwise
-
-                print("Line: ", linenum, str1) # Print the linenum and index of the located substr.
+                print(str2)  # Print the linenum and index of the located substr.
                 li = linesCo[linenum:linenum + 5]
 
-                index += len(substr)    # Before repeating search, increment index by length of substr." " "
-                a=li
+                index += len(substr)  # Before repeating search, increment index by length of substr." " "
+                a = li
                 print(a)
+
+        while index2 < len(str2):  # While search index is less than the length of the string:
+            index2 = str.find(substr2, index2)  # If substring is located, set search index to that location.
+            if index2 == -1:  # If nothing is found,
+                # print('index = -1')
+                break  # break out of the while loop. Otherwise
+
+            print(str2)  # Print the linenum and index of the located substr.
+            li2 = linesCo[linenum:linenum + 5]
+
+            index2 += len(substr2)  # Before repeating search, increment index by length of substr." " "
+            b = li2
+
