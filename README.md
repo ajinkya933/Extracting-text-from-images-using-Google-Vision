@@ -1,6 +1,6 @@
 # Google Vision API
 
-Here I have extracted Master Airway Bill Number using the Google Vision API and Python. Please see attached screen shot for example
+Here I have extracted data from text and scanned documents using Google Vision API and Python. Please see attached screen shot for example
 
 1) Install Google Cloud SDK
 2) Generate a authentication key
